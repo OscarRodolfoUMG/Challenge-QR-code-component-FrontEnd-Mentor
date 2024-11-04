@@ -12,11 +12,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-(./screenshots/screenshot-desk.PNG)
+![Screenshot](./screenshots/screenshot-desk.PNG)
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://oscarrodolfoumg.github.io/Challenge-QR-code-component-FrontEnd-Mentor/)
 
 ## My process
 
